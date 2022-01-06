@@ -1,0 +1,14 @@
+{
+  "name": "landing_page",
+  "version": "1.0.0",
+  "description": "Udacity first project in the professional web track",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass sass/style.scss css/style.css --watch"
+  },
+  "author": "Youssef",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.46.0"
+  }
+}
