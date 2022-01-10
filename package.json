@@ -6,7 +6,7 @@
   "scripts": {
     "sass": "sass sass/style.scss css/style.css --watch"
   },
-  "author": "Youssef",
+  "author": "Mahmoud Moussa",
   "license": "ISC",
   "dependencies": {
     "sass": "^1.46.0"
